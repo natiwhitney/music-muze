@@ -2,7 +2,7 @@
 
 _Keep it simple stupid_
 
-What live music is happening near me tonight?
+Live music near me tonight.
 
 ## Live App
 https://music-muze.herokuapp.com/map
